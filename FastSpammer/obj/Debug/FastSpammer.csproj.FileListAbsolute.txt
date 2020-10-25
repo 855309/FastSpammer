@@ -1,0 +1,10 @@
+C:\Users\hamza\source\repos\FastSpammer\bin\Debug\FastSpammer.exe.config
+C:\Users\hamza\source\repos\FastSpammer\bin\Debug\FastSpammer.exe
+C:\Users\hamza\source\repos\FastSpammer\bin\Debug\FastSpammer.pdb
+C:\Users\hamza\source\repos\FastSpammer\obj\Debug\FastSpammer.csprojAssemblyReference.cache
+C:\Users\hamza\source\repos\FastSpammer\obj\Debug\FastSpammer.SpamWindow.resources
+C:\Users\hamza\source\repos\FastSpammer\obj\Debug\FastSpammer.Properties.Resources.resources
+C:\Users\hamza\source\repos\FastSpammer\obj\Debug\FastSpammer.csproj.GenerateResource.cache
+C:\Users\hamza\source\repos\FastSpammer\obj\Debug\FastSpammer.csproj.CoreCompileInputs.cache
+C:\Users\hamza\source\repos\FastSpammer\obj\Debug\FastSpammer.exe
+C:\Users\hamza\source\repos\FastSpammer\obj\Debug\FastSpammer.pdb
