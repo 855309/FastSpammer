@@ -1,0 +1,2 @@
+# FastSpammer
+spam tool
